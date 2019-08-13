@@ -3,7 +3,7 @@ import './spinner.sass';
 
 const Spinner = () => {
     return (
-        <div>Spinner</div>
+        <div>Loading...</div>
     );
 };
 
